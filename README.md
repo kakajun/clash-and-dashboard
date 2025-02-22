@@ -25,6 +25,6 @@ docker run -d \
 - 7890为http端口
 - 7891为socks端口
 - 注意勾选允许局域网连接
-test
+test11
 ## LICENSE
 MIT License
